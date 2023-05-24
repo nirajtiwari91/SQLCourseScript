@@ -121,12 +121,3 @@ select id, isnull(name, 'blank') as name, nullif(mode, 'mode') from tblSignUp
 --Operarors
 select 4/5 as total
 *****************************
-SQL Course
-SQL Training
-SQL Tutorial For Beginners
-SQL TUTORIALS FOR BEGINNERS IN 1 HOURS
-SQL for Beginners Tutorial
-SQL Tutorial for Beginners
-SQL Full Course in Hindi
-SQL for Beginners
-SQL Tutorial in Hindi
