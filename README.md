@@ -1,3 +1,73 @@
+This script provides a comprehensive overview of SQL operations, constraints, security considerations, and various functions. Feel free to explore each section for a detailed understanding.
+
+Database Operations:
+
+Database creation (CREATE DATABASE)
+Database selection (USE)
+Database deletion (DROP DATABASE)
+Table Operations:
+
+Table creation (CREATE TABLE)
+Table deletion (DROP TABLE)
+Altering table data types (ALTER TABLE)
+Adding and dropping columns (ALTER TABLE ... ADD/DROP COLUMN)
+Constraints:
+
+Unique constraint (UNIQUE)
+Foreign key constraint (FOREIGN KEY)
+Default Constraint:
+
+Default constraint on a column
+Data Manipulation:
+
+Inserting records (INSERT INTO)
+Selecting records (SELECT)
+Distinct records (DISTINCT)
+Filtering records (WHERE)
+Updating records (UPDATE)
+Deleting records (DELETE)
+Selecting a specific number of records (TOP)
+Aggregation Functions:
+
+Finding minimum and maximum values (MIN and MAX)
+Counting records (COUNT)
+Summing values (SUM)
+String Operations:
+
+Pattern matching using LIKE
+Filtering with IN
+Range filtering with BETWEEN
+Views:
+
+Creating a view (CREATE VIEW)
+Selecting from a view
+Security (Injection):
+
+Creating a login table
+Demonstrating a potential SQL injection in a select query
+Aliases:
+
+Using aliases for columns and tables
+Grouping and Having:
+
+Grouping records (GROUP BY)
+Filtering grouped records (HAVING)
+Subqueries:
+
+Using EXISTS in a subquery
+Copy Table with Data:
+
+Copying data from one table to another (SELECT INTO)
+Functions:
+
+Using CASE for conditional logic
+Handling NULL values with ISNULL and NULLIF
+Basic arithmetic operations
+Miscellaneous:
+
+Displaying the result of a simple arithmetic operation
+
+
 SQL Backup DB
 
 ******QUERY***************
